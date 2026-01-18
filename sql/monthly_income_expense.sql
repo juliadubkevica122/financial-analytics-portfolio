@@ -8,3 +8,4 @@ SELECT
 FROM `julia-learning-122.financial_transactions.financial_transactions`
 GROUP BY month, transaction_type
 ORDER BY month, transaction_type;
+
